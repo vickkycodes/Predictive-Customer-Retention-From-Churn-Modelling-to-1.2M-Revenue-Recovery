@@ -1,4 +1,4 @@
-# Churn-Intelligence-Statistical-Analysis-Predictive-Modelling-Retention-Strategy
+# Predictive Customer Retention: From Churn Modelling to $1.2M Revenue Recovery
 
 # Customer Churn Analysis & Retention Intelligence
 ### Telecom Customer Data — IBM Sample Dataset
