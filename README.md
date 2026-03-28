@@ -5,7 +5,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![sklearn](https://img.shields.io/badge/scikit--learn-ML-orange)
-![Status](https://img.shields.io/badge/Status-Complete-green)
+![Status](https://img.shields.io/badge/Status-In_progress-yellow)
 
 ---
 
